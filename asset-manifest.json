@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/keycloakify-demo-app/static/css/main.d9ffaa6d.chunk.css",
-    "main.js": "/keycloakify-demo-app/static/js/main.258b5db1.chunk.js",
-    "main.js.map": "/keycloakify-demo-app/static/js/main.258b5db1.chunk.js.map",
-    "runtime-main.js": "/keycloakify-demo-app/static/js/runtime-main.c61052ed.js",
-    "runtime-main.js.map": "/keycloakify-demo-app/static/js/runtime-main.c61052ed.js.map",
-    "static/js/2.cc142b38.chunk.js": "/keycloakify-demo-app/static/js/2.cc142b38.chunk.js",
-    "static/js/2.cc142b38.chunk.js.map": "/keycloakify-demo-app/static/js/2.cc142b38.chunk.js.map",
-    "index.html": "/keycloakify-demo-app/index.html",
-    "static/css/main.d9ffaa6d.chunk.css.map": "/keycloakify-demo-app/static/css/main.d9ffaa6d.chunk.css.map",
-    "static/js/2.cc142b38.chunk.js.LICENSE.txt": "/keycloakify-demo-app/static/js/2.cc142b38.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/keycloakify-demo-app/static/media/logo.6ce24c58.svg",
-    "static/media/tos_en.c09b3947.md": "/keycloakify-demo-app/static/media/tos_en.c09b3947.md",
-    "static/media/tos_fr.e2782512.md": "/keycloakify-demo-app/static/media/tos_fr.e2782512.md"
+    "main.css": "/keycloakify-theme/static/css/main.b298c927.chunk.css",
+    "main.js": "/keycloakify-theme/static/js/main.a931bb20.chunk.js",
+    "main.js.map": "/keycloakify-theme/static/js/main.a931bb20.chunk.js.map",
+    "runtime-main.js": "/keycloakify-theme/static/js/runtime-main.0d4ebda2.js",
+    "runtime-main.js.map": "/keycloakify-theme/static/js/runtime-main.0d4ebda2.js.map",
+    "static/js/2.d3bd93fa.chunk.js": "/keycloakify-theme/static/js/2.d3bd93fa.chunk.js",
+    "static/js/2.d3bd93fa.chunk.js.map": "/keycloakify-theme/static/js/2.d3bd93fa.chunk.js.map",
+    "index.html": "/keycloakify-theme/index.html",
+    "static/css/main.b298c927.chunk.css.map": "/keycloakify-theme/static/css/main.b298c927.chunk.css.map",
+    "static/js/2.d3bd93fa.chunk.js.LICENSE.txt": "/keycloakify-theme/static/js/2.d3bd93fa.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/keycloakify-theme/static/media/T2P_logo.60ad41fa.svg",
+    "static/media/logo.6ce24c58.svg": "/keycloakify-theme/static/media/logo.6ce24c58.svg",
+    "static/media/tos_en.c09b3947.md": "/keycloakify-theme/static/media/tos_en.c09b3947.md",
+    "static/media/tos_fr.e2782512.md": "/keycloakify-theme/static/media/tos_fr.e2782512.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.c61052ed.js",
-    "static/js/2.cc142b38.chunk.js",
-    "static/css/main.d9ffaa6d.chunk.css",
-    "static/js/main.258b5db1.chunk.js"
+    "static/js/runtime-main.0d4ebda2.js",
+    "static/js/2.d3bd93fa.chunk.js",
+    "static/css/main.b298c927.chunk.css",
+    "static/js/main.a931bb20.chunk.js"
   ]
 }
