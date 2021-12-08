@@ -1,11 +1,11 @@
 {
-    "homepage": "https://garronej.github.io/keycloakify-demo-app/",
-    "name": "keycloakify-demo-app",
-    "version": "0.2.19",
-    "description": "A demo project for keycloakify",
+    "homepage": "https://airl3uz.github.io/keycloakify-theme/",
+    "name": "keycloakify-theme",
+    "version": "0.1.0",
+    "description": "A theme project for keycloakify",
     "repository": {
         "type": "git",
-        "url": "git://github.com/garronej/keycloakify-demo-app.git"
+        "url": "git://github.com/airl3uz/keycloakify-theme.git"
     },
     "scripts": {
         "build": "react-scripts build",
